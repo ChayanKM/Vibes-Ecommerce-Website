@@ -697,7 +697,7 @@ footer .copyright{
 /* -----------------------------------About Page-------------------------------- */
 
 #page-header.about-header{
-    background-image: URL("IMG/aboutUs.webp");
+    background-image: URL("img/aboutUs.jpg");
 }
 
     
@@ -1174,6 +1174,7 @@ footer .copyright{
 
 
     /* ---------About Page----------- */
+    
     #about-head{
         flex-direction: column;
     }
